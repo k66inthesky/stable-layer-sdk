@@ -2,6 +2,10 @@
 
 TypeScript SDK for minting, burning stablecoins and claiming yield rewards on the Sui blockchain via the Stable Layer protocol.
 
+## Why Use?
+Save your API token cost!! 
+大幅省 OpenClaw 在背後執行時需要頻繁查詢的token啊！
+
 ## Installation
 
 ```bash
