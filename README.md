@@ -25,7 +25,7 @@ See [SKILL.md](./SKILL.md) for full API reference and code examples.
 
 ---
 ## AI tool Desclaimer AI工具聲明
-+ 參加[Sui vibe Hackathon](https://www.deepsurge.xyz/projects/0a576636-bc3a-4cac-aa5d-7c1e25f90414)
++ 參加[Sui vibe Hackathon](https://www.deepsurge.xyz/projects/351492fa-b8d3-42e9-a734-a6ccb1218948)
 + 開發工具: 只用Claude Code CLI
 + 模型：只用Opus 4.6
 + 對話：
